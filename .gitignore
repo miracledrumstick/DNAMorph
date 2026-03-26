@@ -1,0 +1,10 @@
+**/*.nii.gz
+**/*.nii
+**/*.pt
+**/*.pth
+.idea
+log/
+*.log
+**/*.zip
+**/*.tar.gz
+test/
